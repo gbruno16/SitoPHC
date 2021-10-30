@@ -78,7 +78,7 @@ a {
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #a1c45a;
+  /*color: #a1c45a;*/
   outline: none;
 }
 
