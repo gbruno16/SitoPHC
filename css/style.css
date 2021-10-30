@@ -71,14 +71,14 @@ html{
 }
 
 a {
-  /*color: #a1c45a;*/
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  /*color: #a1c45a;*/
+  color: #a1c45a;
   outline: none;
 }
 
