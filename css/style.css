@@ -71,7 +71,7 @@ html{
 }
 
 a {
-  color: #a1c45a;
+  /*color: #a1c45a;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
