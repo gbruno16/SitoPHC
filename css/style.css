@@ -438,6 +438,11 @@ footer {
   top: 0px;
 }
 
+#service .hilbert {
+  background-image: url("/img/hilbert.svg");
+
+}
+
 #service .fa:hover {
   background-color: #222;
   color: #ffffff;
