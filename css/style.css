@@ -451,6 +451,9 @@ footer {
 
 #service .butt {
   margin-bottom: 40px;
+}
+
+#service .buttred{
   background-color:#a45858 !important;
 }
 
