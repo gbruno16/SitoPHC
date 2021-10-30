@@ -78,7 +78,7 @@ a {
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #aa2020;
+  color: #a45858;
   outline: none;
 }
 
@@ -167,7 +167,7 @@ footer {
 .sk-spinner-pulse {
   width: 60px;
   height: 60px;
-  background-color: #aa2020;
+  background-color: #a45858;
   border-radius: 2%;
   -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
           animation: sk-pulseScaleOut 1s infinite ease-in-out; }
@@ -261,7 +261,7 @@ footer {
 .navbar-default .navbar-nav > .active > ::before {
     position: absolute;
     content: '';
-    background-color: #aa2020;
+    background-color: #a45858;
     height: 1px;
     width: 10px;
     margin-top: 24px;
@@ -323,7 +323,7 @@ footer {
 }
 
 #cta .btn {
-  background-color: #aa2020;
+  background-color: #a45858;
   border: 2px solid transparent;
   color: #ffffff;
   font-size: 14px;
@@ -415,7 +415,7 @@ footer {
 }
 
 #team .team-thumb:hover h4 {
-  color: #aa2020;
+  color: #a45858;
 }
 
 
@@ -427,7 +427,7 @@ footer {
   background-color: #f0f0f0;
   border-radius: 100px;
   cursor: pointer;
-  color: #aa2020;
+  color: #a45858;
   font-size: 32px;
   width: 85px;
   height: 85px;
@@ -477,7 +477,7 @@ footer {
   width: 100%;
   height: 100%;
   opacity: 0;
-  color: #aa2020;
+  color: #a45858;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -548,7 +548,7 @@ footer {
 }
 .filter-wrapper li a:hover,
 .filter-wrapper li a:focus {
-  color: #aa2020;
+  color: #a45858;
 }
 
 /*worktope box css*/
@@ -631,7 +631,7 @@ footer {
 
 #contact form input[type="submit"] {
     border-radius: 2px;
-  background-color: #aa2020;
+  background-color: #a45858;
   border: none;
   font-weight: 500;
   letter-spacing: 2px;
@@ -688,7 +688,7 @@ footer .footer-link ul li a {
 }
 
 footer .footer-link ul li a:hover {
-  color: #aa2020;
+  color: #a45858;
 }
 
 footer .footer-copyright {
@@ -733,7 +733,7 @@ footer .footer-copyright p {
 }
 
 .social-icon li a:hover {
-    background: #aa2020;
+    background: #a45858;
     color: #ffffff;
     top: -5px;
 }
@@ -763,7 +763,7 @@ footer .footer-copyright p {
 }
 
 .go-top:hover {
-    background: #aa2020;
+    background: #a45858;
     color: #ffffff;
 }
 
