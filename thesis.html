@@ -29,6 +29,9 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet" type="text/css">
 
+        <!-- Mathjax-->
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </head>
     <body>
 
@@ -114,9 +117,10 @@
                             <i class="fa fa-file-alt"></i>
                                 <h3>Abstract</h3>
                                 <p class="small text-justify">L'obiettivo della presente tesi è stabilire se e in che modo sia possibile dare una buona definizione di integrale lungo la curva di Peano, con lo scopo finale di costruire una teoria per equazioni differenziali controllate da tale curva. </p>
-                                <img src="img/peano.gif" class="img-abstract-s" alt="Responsive image">
                                 <p class="small text-justify"> Nel Capitolo 1 viene presentata un'estensione della costruzione originale di Peano al caso d-dimensionale, insieme alle sue proprietà di continuità, surgettività, 1/d-holderianità ed uniforme distribuzione delle coordinate. Successivamente si affronta il problema dell'integrazione lungo cammini alfa-holderiani con alfa minore di 1/2, per i quali l'approccio analitico di Young e quelli probabilistici di Ito e Stratonovich risultano inapplicabili nel caso generale. </p>
+                                <img src="img/peano.gif" class="img-abstract-s" alt="Responsive image">
                                 <p class="small text-justify"> Nel Capitolo 2 vengono quindi esposti i risultati e le definizioni fondamentali della teoria  dei Rough Paths di T. Lyons, soffermandosi sull'importanza del processo del secondo ordine visto come "informazione mancante" al cammino. </p>
+                                <p>_0^1<span>F(_s)</span>d_s=_<span>||</span><span>_<span>[s,t]</span><span>F(_s)[_<span>s,t</span>]+dF(_s)[_<span>s,t</span>]</span></span>.</p>
                                 <p class="small text-justify"> Tale informazione, nel caso specifico della curva di Peano  bidimensionale, viene costruita esplicitamente nel Capitolo 3, dove viene introdotto il concetto di Area di Lèvy, riprendendo lo studio iniziato da S. Yam nella sua tesi di dottorato. Una volta mostrata la convergenza delle approssimanti nello spazio dei Rough Path alfa-holderiani  con alfa minore di 1/2, si termina il capitolo con un confronto numerico tra integrale di Young ed integrale Rough, la cui implementazione in Matlab è riportata in appendice. </p>
                                 <img src="img/k3.png" class="img-abstract-m" alt="Responsive image">
                                 <p class="small text-justify"> Il Capitolo 4 presenta alcune applicazioni della curva di Peano, ad esempio nel caso del Parallel Computing, della risoluzione di PDE e del TSP, insieme a dei risultati probabilistici sul Matching Bipartito. Infine viene brevemente presentata la teoria delle equazioni differenziali rough, che grazie ai risultati del Capitolo 3 sarà possibile applicare al caso della curva di Peano. Nelle conclusioni si riportano alcuni possibili sviluppi, come la definizione di integrali di 2-forme su superfici di bassa regolarità o lo studio delle proprietà geometriche delle soluzioni di RDE controllate dalla curva di Peano.</p>
