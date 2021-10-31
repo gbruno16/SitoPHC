@@ -458,18 +458,18 @@ footer {
 }
 
 #service .img-abstract-s{
-  max-width: 15em;
+  max-width: 100px;
   height:auto;
   margin-bottom:40px;
 }
 
 #service .img-abstract-m{
-  max-width: 30em;
+  max-width: 200px;
   height:auto;
 }
 
 #service .img-abstract-l{
-  max-width: 50em;
+  max-width: 300px;
   height:auto;
 }
 /*---------------------------------------
