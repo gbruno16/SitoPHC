@@ -457,6 +457,10 @@ footer {
   background-color:#a45858 !important;
 }
 
+#service .img-abstract{
+  max-width: 20em;
+  height:auto;
+}
 /*---------------------------------------
     Portfolio section              
 -----------------------------------------*/
