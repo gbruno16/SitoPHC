@@ -457,8 +457,18 @@ footer {
   background-color:#a45858 !important;
 }
 
-#service .img-abstract{
-  max-width: 40em;
+#service .img-abstract-s{
+  max-width: 20em;
+  height:auto;
+}
+
+#service .img-abstract-m{
+  max-width: 30em;
+  height:auto;
+}
+
+#service .img-abstract-l{
+  max-width: 50em;
   height:auto;
 }
 /*---------------------------------------
