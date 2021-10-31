@@ -458,19 +458,21 @@ footer {
 }
 
 #service .img-abstract-s{
-  max-width: 100px;
+  max-width: 200px;
   height:auto;
   margin-bottom:40px;
 }
 
 #service .img-abstract-m{
-  max-width: 200px;
+  max-width: 300px;
   height:auto;
+  margin-bottom:40px;
 }
 
 #service .img-abstract-l{
-  max-width: 300px;
+  max-width: 500px;
   height:auto;
+  margin-bottom:40px;
 }
 /*---------------------------------------
     Portfolio section              
