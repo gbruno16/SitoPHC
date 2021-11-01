@@ -51,11 +51,11 @@ p {
     line-height: 30px;
 }
 
-.small {
+.small .math{
   font-size: 14px;
   line-height: 28px;
 }
-#service .small {
+#service .small .math{
   padding: 10px 20px 20px 20px;
 }
 
@@ -448,6 +448,11 @@ footer {
 }
 
 #service .small {
+  padding-bottom: 40px;
+}
+
+#service .math{
+  overflow-x: scroll;
   padding-bottom: 40px;
 }
 
