@@ -4,8 +4,8 @@ from scipy import rand
 from random import randrange
 import json
 #scp -r Quiz bruno@poisson.phc.dm.unipi.it:~/public_html/Quiz 
-URL="https://unimap.unipi.it/registri/dettregistriNEW.php?re=3325977::::&ri=4183"
-materia="Prob_2122"
+URL="https://unimap.unipi.it/registri/dettregistriNEW.php?re=3325458::::&ri=012915"
+materia="IstProb_2122"
 page = requests.get(URL)
 domande={}
 soup = BeautifulSoup(page.content, "html.parser")
